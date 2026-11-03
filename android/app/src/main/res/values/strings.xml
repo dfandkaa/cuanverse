@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Cuanverse</string>
+    <string name="title_activity_main">Cuanverse</string>
+    <string name="package_name">com.cuanverse.app</string>
+    <string name="custom_url_scheme">com.cuanverse.app</string>
+</resources>
